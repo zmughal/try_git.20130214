@@ -1,3 +1,3 @@
-try_git
+try_git hello
 =======
 ZAKI IS WEIRD
